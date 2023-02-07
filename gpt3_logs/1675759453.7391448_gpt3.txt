@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+ABSTRACT: Previously, models for semiconductor manufacturing processes have been developed using first principles, statistical experimental design, and a combination of the two. Due to the complexity of modem fabrication processes, these approaches have met with varying degrees of success. Recently, a new adaptive learning approach involving neural networks has been applied to the modeling of polysilicon film growth by lowpressure chemical vapor deposition [ 13. In this paper, a neural network modeling methodology is applied to the removal of polysilicon films by plasma etching. The plasma etch process under investigation was previously modeled using the empirical response surface approach. However, in comparing the two neural methods with the statistical technique, it has been determined that the neural network models exhibit superior accuracy and require fewer training experiments. In fact, the results of this study indicate that the predictive capabilities of the neural net models are superior to that of their statistical counterparts for the same experimental data. NewBlock INTRODUCTION: Accurate and efficient modeling of semiconductor fabrication processes is necessary for a variety of manufacturing applications. Among these are recipe generation and optimization [2], statistical process control 131, and equipment malfunction diagnosis [4]. In recent years, the technique of ion-assisted plasma etching has become widely used in semiconductor manufacturing. Due to this increased popularity, considerable effort has been expended in developing reliable methods of process characterization for this complex physical and chemical process. Characterization is aimed at modeling the response of process outputs to vadations in input parameters with a very high degree of precision. Previously, such models have been developed using a variety of approaches, including first principles [5-61, statistical experimental design and response surface methodology [7-81, and a
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This paper discusses the use of neural networks for modeling the removal of polysilicon films by plasma etching. The authors compare the neural network approach to the statistical response surface approach and find that the former is more accurate and requires fewer training experiments.

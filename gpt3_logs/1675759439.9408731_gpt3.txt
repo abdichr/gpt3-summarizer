@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+advantage of much faster runtime than the C program. While the C program typically runs for several hours before convergence is achieved, Brainmaker training usually lasts on the order of minutes. As a result, many different neural architectures were tested with Brainmaker in an effort to determine the optimal architecture. This search yielded models exhibiting the best performance which possessed a variety of structures. The experimental error for these models (bB) is compared with the RSM error in Table V.  For the reduced RSM experiment, the predictive capability of the Brainmaker model is not as impressive as the C program, but is still superior to RSM. When the Brainmaker etch rate model was re-trained on the 35 screening runs and tested on the same 12 additional wafers as in $5.2, the experimental error of the new Brainmaker etch rate model for those 12 runs was 329.2 6; Imin, which represents a 18.0% improvement over the RSM result of 401.5 6; Imin for these wafers (see Table VI). This implies that although Brainmaker training is much faster, better accuracy may be obtained from software customized to a particular application.  CONCLUSION: A neural network modeling technique has been applied to the highly complex process of plasma etching. For a polysilicon etch in a CCl&Ie/O, plasma, the etch rate, uniformity, and selectivity to both silicon dioxide and photoresist were modeled as a function of RF power, pressure, electrode spacing, and the three gas flows. Neural process models were subsequently compared to models derived by Response Surface Methodology (RSM) for the same data. It was demonstrated that the neural models possess significantly superior performance. Furthermore, the derivation of accurate neural models was shown to require fewer training experiments. As a result, neural network modeling promises to be a faster, more efficient and less expensive method of process characterization and the RSM approach in the future.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Neural network modeling was applied to the complex process of plasma etching, and was found to be significantly more accurate than traditional Response Surface Methodology. Neural network modeling is thus a more efficient and less expensive method of process characterization.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+replicate design was again employed. The entire second phase required 18 additional runs. A graphic description of central composite designs appears in Figure 1. Phase 2 of the experiment yielded quadratic models which describe the interaction between input factors and the four responses. Each model was derived by stepwise regression [13]. Analysis of variance (ANOVA) techniques supported both the validity and quality of fit of each model [7].  Process Modeling With Neural Networks: Neural networks have previously demonstrated the capability of learning complex relationships between groups of related parameters [1,14-161. Such learning abilities are attributed to the fact that neural networks, possessing many simple parallel processing units (called neurons or neurodes), crudely resemble the architecture of the human brain. These rudimentary processors are interconnected in such a way that knowledge is stored in the weight of the connections between them. Each neuron contains the weighted sum of its inputs filtered by a exponential "squashing" function, thereby endowing neural networks with the ability to generalize with an added degree of freedom not available in statistical regression techniques. In order to model complex manufacturing processes such as the plasma etching example above, the quantitative relationships which relate the six input parameters are learned via the feed-forward error back-propagation (FFEBP) algorithm. This algorithm has been shown to be very effective in learning arbitrary nonlinear mappings between noisy sets of input and output vectors [16]. Networks consist of one or more layers of neurons which receive, process, and transmit critical information regarding the relationships between the input parameters and corresponding responses. FFEBP networks incorporate "hidden" layers of neurons which do not interact with the outside world, but perform classification and feature extraction tasks on information provided by the input and output
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The study employed a replicate design and found that the quadratic models yielded by the second phase of the experiment were valid and had a good fit. Analysis of variance techniques supported the validity and quality of fit of each model. Neural networks were used to model the complex manufacturing process, and the feed-forward error back-propagation algorithm was found to be effective in learning the relationships between the input parameters and responses.

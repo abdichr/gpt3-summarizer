@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+layers.  Plasma Etch Modeling Strategy: The structure of a typical FFEBP network appears in Figure 2. In the plasma etch application, the input layer of neurons receives external information and corresponds to the six adjustable input parameters. The output layer transmits information to the outside world, and thus corresponds to the process responses (etch rate, uniformity, etc.). The number of hidden layer neurons is varied to achieve maximum performance. A neural network with a structure consisting of six input neurons, six hidden neurons and four output neurons is referred to as a "6-6-4" structure.  In the FFEBP modeling algorithm, the network begins with a random set of weights. An input vector is then presented to the network and the output is CGICUlated using this initial weight matrix. Next, the calculated output is compared to the measured output data, and the squared difference between these two vectors determines the system error. The accumulated error for all the input-output pairs is the Euclidean distance in the weight space which the network attempts to minimize. Minimization is accomplished via the gradient descent approach, in which the system is adjusted in the direction of decreasing error [15]. Increasing the number of hidden neurons or hidden layers in the network helps this minimization process to converge. It has been shown that FFEBP networks can encode any arbitrary input-output relationship with a maximum of two hidden layers [15-161. In this study, the above algorithm has been implemented via a C program as well as by using the commercially available Brainmaker software [ 1 13. In each case, the network is trained on a subset of the available experimental data which spans the ranges of interest and subsequently tested on other remaining data. Training is assumed to be complete when all outputs are within a previously defined tolerance of the training data. The C program employs a madaline architecture with a sigmoidal activation function
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The FFEBP neural network is used to model plasma etching processes. It consists of six input neurons, six hidden neurons, and four output neurons. The network is trained on a subset of experimental data, and then tested on remaining data. Training is complete when all outputs are within a previously defined tolerance of the training data.

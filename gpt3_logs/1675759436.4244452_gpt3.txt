@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+For each of the four etch responses, the neural networks exhibited significantly superior accuracy. This can be attributed to the fact that the RSM models were based on the somewhat questionable apriori assumption of quadratic behavior. That is, the RSM procedure began by assuming that quadratic functions adequately described the variation of the responses with the six inputs, and then fit coefficients to the four polynomial response equations (4)-(7) using regression techniques. However, the initial assumption of quadratic behavior is rather arbitrary, and may not be valid. The neural models, on the other hand, are not constrained to any particular form. In fact, due to their use of the previously mentioned exponential squashing function, neural networks are able to interpolate and generalize arbitrary nonlinear relationships.  Predictive Capability (Reduced Experiment): Due to the enhanced accuracy ,of the neural models, they can be used to predict etch behavior more precisely. It was also hypothesized that the neural models could exhibit this superior predictive capability with even fewer training experiments than the 53 used to derive the RSM models. In order to verify this hypothesis, the neural network model for the polysilicon etch rate was re-trained on the 35 runs corresponding to the initial screening phase of the RSM experiment only. Once trained, the network was subsequently used to predict the etch rate for 12 additional wafers which were not a part of the original experiment. Nine of these 12 wafers had been etched using the standard recipe of the Berkeley Microfabrication Laboratory, while the remaining wafers were etched using a recipe designed to optimize the four etch responses [7]. As shown in Table IV, the experimental error of the new neural etch rate model for the 12 extra runs was 38.3% less than the RSM predictions. This result  Brainmaker Results: The above simulations were repeated using the Brainmaker package. This software offers the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Neural networks are more accurate than regression models in predicting etch behavior, and can do so with fewer training runs. This makes them more useful in industrial settings, where precise predictions are necessary and experiments are expensive.

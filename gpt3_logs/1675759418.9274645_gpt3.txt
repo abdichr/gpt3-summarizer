@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+characteristics of n+-doped polysilicon in a CClfie/02 plasma [7]. Etch rate, uniformity, and selectivity to both silicon dioxide and photoresist were modeled as a function of six input parameters: RF power, pressure, electrode spacing, and the three gas flows. Etching took place in a Lam Research Autoetch 490 single-wafer plasma system. In comparing the RSM models derived from these experiments the neural models, it is determined that the neural models exhibit superior accuracy to the RSM models and require fewer training experiments. In fact, the results of this study indicate that the predictive capabilities of the neural net models are superior to that of their statistical counterparts for the same experimental data. NewBlock EXPERIMENTAL APPARATUS AND TECHNIQUE: In the experiment described in [7], etching was performed on a test structure designed to facilitate the simultaneous measurement of the etch rates of polysilicon, SiO,, and photoresist. The patterns were fabricated on 4-in diameter silicon wafers. Approximately 1.2pm of phosphorus-doped polysilicon was deposited over 0 . 5 ~  of thermal SiO, by LPCVD. The thick layer of oxide was grown to prevent etching through the oxide by the less selective experimental recipes. Oxide was grown in a steam ambient at 1000C. One micron of Kodak 820 photoresist was spun-on and baked for 60 seconds at 120OC. The etching apparatus consisted of a Lam Research Corporation Autoetch 490 single-wafer parallel-plate system operating at 13.56 MHz. NewBlock Film thickness measurements were performed on five points per wafer using a Nanometrics Nanospec AFT system and an Alphastep 200 Automatic Step Profiler. Vertical etch rates were calculated by dividing the difference between the pre- and post-etch thickness by the etch time. Expressions for the selectivity of etching poly with respect to oxide (Sox) and with respect to resist (S,,,) and percent nonuniformity (U), respectively, are given below where R, is the mean vertical
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The purpose of the study was to compare the accuracy of neural models with that of traditional statistical models in predicting the etch rate, uniformity, and selectivity of n+-doped polysilicon in a CCI/02 plasma. The experiment was conducted using a Lam Research Autoetch 490 single-wafer plasma system. The results showed that the neural models were more accurate than the traditional statistical models in predicting the etch rate, uniformity, and selectivity.

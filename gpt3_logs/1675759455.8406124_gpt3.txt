@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+combination of the two NewBlock Plasma modeling from a fundamental standpoint has had limited success. Current physically-based models attempt to derive self-consistent solutions to first-principle equations involving continuity, momentum balance, and energy balance inside a high frequency, high intensity electric field. This is accomplished by means of computationally expensive numerical simulation methods which typically produce distribution profiles of electrons and ions within the plasma sheath. Although simulation is useful for equipment design and optimization, it is subject to many simplifying assumptions, and the true connection between these microscopic models and macroscopic parameters (such as etch rate) has yet to be clearly distinguished. Since the complexity of practical plasma processes at the equipment level is presently ahead of theoretical comprehension, other efforts have focused on empirical approaches to plasma modeling involving Response Surface Methods (RSM) [IO]. Models derived via RSM accurately represent the behavior of a specific piece of equipment under a wide range of etch recipes, thus making them very useful for manufacturing purposes. More recently, however, an adaptive learning technique which utilizes neural networks and influence diagrams in conjunction with statistical methods has been applied to the modeling of polysilicon growth by low-pressure chemical vapor deposition (LPCVD) [ 11. In that study, the neural process models were shown to exhibit less experimental error than their statistical counterparts, even when created from less experimental data. In this paper, two different neural network modeling methodologies are applied to the removal of polysilicon films by plasma etching. In one case, a neural modeling algorithm is implemented via a C program, while in the second case, neural process models are developed using the commercially available Brainmaker software package. A recent RSM study focused on modeling the etch
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Two different neural network modeling methodologies are applied to the removal of polysilicon films by plasma etching. In one case, a neural modeling algorithm is implemented via a C program, while in the second case, neural process models are developed using the commercially available Brainmaker software package.

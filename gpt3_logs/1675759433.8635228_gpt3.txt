@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+and no input bias for forward propagation [17]. The program consists of three major portions: 1) the input module, which reads in the structure of the network and the data to be modeled; 2) a loop which performs the FFEBP algorithm until acceptable error is achieved; and 3) an evaluation module, which calculates the error of the network from the test data. Brainmaker also utilizes the FFEBP algorithm. One difference is that in Bruinmaker, the error in the output of each neuron is allowed to vary within a user-defined range known as the training tolerance. The use of a training tolerance speeds network training, but causes a small trade-off in accuracy.  RESULTS: Both the neural and RSM process models predict the measured responses of the plasma etch equipment with an experimental error 6, which is the square root of the residual sum-of-squares (S,) for each response. S, is calculated as follows where n is the number of experiments, yi is the measured value of each response, and ii is the corresponding model prediction. The experimental error for the RSM models (oRSM), also referred to as replication error, is shown in Table I1 below. This error is due to the inherent variability in the plasma etch equipment [7].  Experimental Error (Full Experiment): The RSM models described in $3.2 were constructed from a total of 53 experimental runs, 35 of which took place in the screening phase of the experiment. In order to compare the error of the neural etch models to their RSM counterparts, neural networks employing a 6-6-1 architecture were trained using the C program for all 53 original data. Table ID compares the experimental error of these networks (0") to that of the RSM models (oRSM above). This comparison is further enhanced by the scatterplots in Figures 3-6, which depict the neural and RSM model predictions versus actual measurements. In these figures, perfect model predictions lie on the diagonal line, while scatter in the data is indicative of experimental error.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The FFEBP algorithm is used in Brainmaker and Bruinmaker to predict the response of plasma etch equipment with an experimental error of 6. The use of a training tolerance in Bruinmaker speeds up network training but causes a small trade-off in accuracy.
